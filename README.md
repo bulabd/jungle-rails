@@ -1,6 +1,14 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A pre-built mini e-commerce application built with Rails 6.1. Used by me to learn to jump into the "jungle" of the code to fix bugs and to create new features.
+
+## Final Product
+
+!["Screenshot of the login page"]()
+!["Screenshot of the sold out product badge"]()
+!["Screenshot of the order page"]()
+!["Screenshot of the admin categories page"]()
+!["Screenshot of the about page"]()
 
 ## Setup
 
@@ -19,7 +27,7 @@ If Rails is complaining about authentication to the database, uncomment the user
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+Use Credit Card # 4111 1111 1111 1111, a future date and a random CVV for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
