@@ -4,11 +4,11 @@ A pre-built mini e-commerce application built with Rails 6.1. Used by me to lear
 
 ## Final Product
 
-!["Screenshot of the login page"]()
-!["Screenshot of the sold out product badge"]()
-!["Screenshot of the order page"]()
-!["Screenshot of the admin categories page"]()
-!["Screenshot of the about page"]()
+!["Screenshot of the login page"](https://github.com/bulabd/jungle-rails/blob/master/docs/login-page.png?raw=true)
+!["Screenshot of the sold out product badge"](https://github.com/bulabd/jungle-rails/blob/master/docs/sold-out-badge.png?raw=true)
+!["Screenshot of the order page"](https://github.com/bulabd/jungle-rails/blob/master/docs/order-page.png?raw=true)
+!["Screenshot of the admin categories page"](https://github.com/bulabd/jungle-rails/blob/master/docs/admin-categories.png?raw=true)
+!["Screenshot of the about page"](https://github.com/bulabd/jungle-rails/blob/master/docs/about-page.png?raw=true)
 
 ## Setup
 
